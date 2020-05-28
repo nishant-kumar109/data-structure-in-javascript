@@ -1,0 +1,15 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "data structure in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "nishant",
+  "license": "ISC",
+  "dependencies": {}
+}
