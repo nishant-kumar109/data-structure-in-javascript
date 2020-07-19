@@ -11,13 +11,6 @@
   },
   "author": "nishant",
   "license": "ISC",
-  "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nishant-kumar109/data-structure-in-javascript.git"
-  },
-  "bugs": {
-    "url": "https://github.com/nishant-kumar109/data-structure-in-javascript/issues"
-  },
-  "homepage": "https://github.com/nishant-kumar109/data-structure-in-javascript#readme"
+  "dependencies": {}
 }
+  
