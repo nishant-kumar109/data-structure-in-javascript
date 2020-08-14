@@ -1,7 +1,8 @@
 # Data Structure in JavaScript
 
-* [Data Structure: The **implementation** practice Bootcamp]
-  This is the shared document for data structure. Here one can get the complete implementation of DS in JavaScript, which is handled in a well comprehensive manner. Still many types have to be done, and it is open for all to update.
+* [Data Structure: The **implementation** practice Bootcamp :]
+
+This is the shared document for data structure. Here one can get the complete implementation of DS in JavaScript, which is handled in a well comprehensive manner. Still many types have to be done, and it is open for all to update.
 
 
 
